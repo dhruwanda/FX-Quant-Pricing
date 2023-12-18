@@ -3,9 +3,9 @@
 
 Implementation of various methods to price FX derivative using the Black-Scholes Model can be found in `Code`.
 
-- `BlackScholes.cpp`: Analytical solution to the Black-Scholes model.
-- `FiniteDiffMethod.cpp`: Utilizes the finite difference method to solve the Black-Scholes PDE.
-- `MonteCarlo.cpp`: A Monte Carlo simulation for asset prices to estimate the value of FX derivatives.
+- `blackScholes.cpp`: Analytical solution to the Black-Scholes model.
+- `finiteDifference.cpp`: Utilizes the finite difference method to solve the Black-Scholes PDE.
+- `monteCarlo.cpp`: A Monte Carlo simulation for asset prices to estimate the value of FX derivatives.
 
 
 ### References
