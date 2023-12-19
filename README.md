@@ -13,4 +13,4 @@ My first step into the world of quants was made somewhat smooth by these resourc
 - Awesome implementation of BSM Model by [Amit Kumar Jha](https://github.com/AIM-IT4/FXQuantPricing-Cpp "GitHub repository").
 - [Finite Differencing](http://www.goddardconsulting.ca/option-pricing-finite-diff-index.html)
 - [MC simuation](https://quantpy.com.au/monte-carlo/monte-carlo-as-a-tool-for-financial-math/) 
--[Option Greeks](https://youtube.com/playlist?list=PLtlRowSvuTZRtxNrST8Wx_IP03kk8aohU&si=k7Y--dvjoDw0z7f2)
+- [Option Greeks](https://youtube.com/playlist?list=PLtlRowSvuTZRtxNrST8Wx_IP03kk8aohU&si=k7Y--dvjoDw0z7f2)
